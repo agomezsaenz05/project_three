@@ -38,12 +38,17 @@ For Project 3, you will work with your group to tell a story using data visualiz
 The proposal is essentially a brief summary of your interests and intent. Be sure to include the following details:
 
 - The kind of data you’d like to work with and the field you’re interested in (finance, healthcare surveys, etc.)
-
+    - EMS Response times in NYC boroughs
+    - 
 - The questions you’ll ask of the data
-
+    - How EMS response times compare between high and low income neighborhoods
+    - How EMS response times compare before and during the COVID-19 pandemic
+    - How EMS response times compare between the initial severity levels reported (by dispatcher)
 - Possible source for the data
+    -  https://www.kaggle.com/datasets/new-york-city/ny-ems-incident-dispatch-data
+    -  NYC average property tax data to determine income
 
-The aim of our project is to uncover patterns in credit card fraud. We’ll examine relationships >between transaction types and location, purchase prices and times of day, purchase trends over >the course of a year, and other related relationships derived from the data.
+The aim of our project is to uncover patterns in EMS response times in NYC boroughs. We’ll examine relationships between response time v. high/low income, response time between Jan 01, 2020 - Mar 31, 2020, response time v. initial severity level reported.
 
 ## Data Cleanup and Analysis
 
