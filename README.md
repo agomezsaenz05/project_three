@@ -18,7 +18,13 @@ For Project 3, you will work with your group to tell a story using data visualiz
 5. Your project must include some level of user-driven interaction (e.g., menus, dropdowns, textboxes).
 
 6. Your final visualization should ideally include at least three views.
-
+    - First Layer: Map
+        - Average response time v Income across NYC boroughs
+        - Response time before covid (topography)
+        - Response times during covid (topography)
+    - Second Layer: Pie Chart & Bar Chart
+        - Pie Chart: Response times v. Severity levels
+        - Bar Chart: Response time Before and during covid per Borough   
 ## Milestones
 1. Project ideation - 4/06 [x]
 2. Data fetching 4/10 [x]
