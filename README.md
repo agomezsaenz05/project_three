@@ -5,14 +5,11 @@ Team Members: Alejandra G, Caleb T, Dominic M & Holly C
 For Project 3, you will work with your group to tell a story using data visualizations. Here are the specific requirements:
 
 1. Your visualization must include a Python Flask-powered API, HTML/CSS, JavaScript, and at least one database (SQL, MongoDB, SQLite, etc.).
-
+    - We are using MongoDB
+    -
 2. Your project should fall into one of the following three tracks:
 
-    - A combination of web scraping and Leaflet or Plotly
-
     - A dashboard page with multiple charts that update from the same data
-
-    - A server that performs multiple manipulations on data in a database prior to visualization (must be approved)
 
 3. Your project should include at least one JS library that we did not cover.
 
@@ -23,17 +20,13 @@ For Project 3, you will work with your group to tell a story using data visualiz
 6. Your final visualization should ideally include at least three views.
 
 ## Milestones
-1. Project ideation - 4/10
-
-2. Data fetching/API integration 4/12
-
-3. Data analysis 4/13 - 4/16
-
-4. Testing 4/13 - 4/16
-
-5. Creating documentation 4/17
-
-6. Creating the presentation 4/19
+1. Project ideation - 4/06 [x]
+2. Data fetching 4/10 [x]
+3. Data analysis 4/12-4/13 []
+4. API integration 4/17 []
+5. Testing 4/17 []
+6. Creating documentation 4/17 []
+7. Creating the presentation 4/19 []
 
 ## Project Proposal
 The proposal is essentially a brief summary of your interests and intent. Be sure to include the following details:
@@ -45,9 +38,9 @@ The proposal is essentially a brief summary of your interests and intent. Be sur
     - How EMS response times compare between high and low income neighborhoods
     - How EMS response times compare before and during the COVID-19 pandemic
     - How EMS response times compare between the initial severity levels reported (by dispatcher)
-- Possible source for the data
-    -  https://www.kaggle.com/datasets/new-york-city/ny-ems-incident-dispatch-data
-    -  NYC average property tax data to determine income
+- Sources for the data
+    -  EMS Response Times in NYC dataset: https://www.kaggle.com/datasets/new-york-city/ny-ems-incident-dispatch-data
+    -  Average incomes in NCY: https://data.cccnewyork.org/data/table/66/median-incomes#66/107/127/a/a
 
 The aim of our project is to uncover patterns in EMS response times in NYC boroughs. We’ll examine relationships between response time v. high/low income, response time between Jan 01, 2020 - Mar 31, 2020, response time v. initial severity level reported.
 
@@ -68,8 +61,8 @@ The aim of our project is to uncover patterns in EMS response times in NYC borou
       - time-series analysis
 ## Grading Requirements
 ### Data and Delivery (25 points)
-    [] Data components used in the project are clearly documented. (5 points)
-    [] The dataset contains at least 100 unique records. (5 points)
+    [x] Data components used in the project are clearly documented. (5 points)
+    [x] The dataset contains at least 100 unique records. (5 points)
     [] A database is used to house the data (SQL, MongoDB, SQLite, etc.). (5 points)
     [] The project is powered by a Python Flask API and includes HTML/CSS, JavaScript, and the chosen database. (10 points)
 ### Back End (25 points)
