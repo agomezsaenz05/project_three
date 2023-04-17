@@ -1,5 +1,5 @@
 # project_three
-Team Members: Alejandra G, Caleb T, Dominic M & Holly C
+Team Members: Holly Cornett, Alejandra Gomez, Dominic Marin & Caleb Thornsbury
 
 ## Requirements
 For Project 3, you will work with your group to tell a story using data visualizations. Here are the specific requirements:
@@ -69,8 +69,8 @@ The aim of our project is to uncover patterns in EMS response times in NYC borou
 ### Data and Delivery (25 points)
     [x] Data components used in the project are clearly documented. (5 points)
     [x] The dataset contains at least 100 unique records. (5 points)
-    [] A database is used to house the data (SQL, MongoDB, SQLite, etc.). (5 points)
-    [] The project is powered by a Python Flask API and includes HTML/CSS, JavaScript, and the chosen database. (10 points)
+    [x] A database is used to house the data (SQL, MongoDB, SQLite, etc.). (5 points)
+    [x] The project is powered by a Python Flask API and includes HTML/CSS, JavaScript, and the chosen database. (10 points)
 ### Back End (25 points)
     [] The page created to showcase data visualizations runs without error. (7.5 points)
     [] A JavaScript library not shown in class is used in the project. (7.5 points)
@@ -83,7 +83,7 @@ The aim of our project is to uncover patterns in EMS response times in NYC borou
     [] The final page displays visualizations in a clear, digestable manner. (5 points)
     [] The data story is easy to interpret for users of all levels. (10 points)
 ### Group Presentation (25 points)
-    [] All group members speak during the presentation. (5 points)
-    [] The content is relevant to the project. (5 points)
-    [] The presentation maintains audience interest. (5 points)
-    [] Content, transitions, and conclusions flow smoothly within any time restrictions. (10 points)
+    [x] All group members speak during the presentation. (5 points)
+    [x] The content is relevant to the project. (5 points)
+    [x] The presentation maintains audience interest. (5 points)
+    [x] Content, transitions, and conclusions flow smoothly within any time restrictions. (10 points)
