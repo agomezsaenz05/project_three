@@ -1,0 +1,22 @@
+body {
+    padding: 0;
+    margin: 0;
+  }
+  
+  #map,
+  body,
+  html {
+    height: 73%;
+  }
+  
+  #plot,
+  body,
+  html {
+    height: 65%;
+  }
+
+  #pie,
+  body,
+  html {
+    height: -10%;
+  }
