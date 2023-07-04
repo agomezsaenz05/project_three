@@ -1,4 +1,4 @@
-# project_three
+# EMS response times in NYC
 Team Members: Holly Cornett, Alejandra Gomez, Dominic Marin & Caleb Thornsbury
 
 ## Project Proposal
